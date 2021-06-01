@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    background-color: #415e9c;
+    height: 100px;
+    
+    
+}
+
+.title{
+    color: white;
+    font-size: 2.25em;
+    position: relative;
+    left:150px;
+    top: 23px;
+}
+
+.email{
+        color: white;
+        position: relative;
+        left: 672px;
+}
+
+.password{
+         color: white;
+         position: relative;
+         left: 774px;
+} 
+
+.ine{
+    position: relative;
+    left: 820px;
+}
+
+.inp{
+    position: relative;
+    left: 850px;
+}
+
+.myButton {
+    position: relative;
+    left: 870px;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:5px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:4px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.fpass{
+    text-decoration: none;
+    color: #9cb4d8;
+    position: relative;
+    left: 1030px;
+    font-size: 90%;
+}
+
+.fpass:hover{
+      text-decoration: underline;
+      color: white;
+}
+
+
+
+
+
+
+.signup{
+    background-image: linear-gradient(#FDFDFE,#D6DAEA);
+    width: 100%;
+    height: 100%;
+
+}
+
+.connect{
+    font-size: 1.55em;
+    position: absolute;
+    bottom: 500px;
+    left: 115px;
+    color: #0e385f;
+} 
+
+.img{
+    position: absolute;
+    right: 810px;
+    
+    top: 240px;
+}
+
+
+.Create{
+     position: relative;
+     left: 1020px;
+     top: 55px;
+     font-size: 2.75em;
+}
+
+
+.Quick{
+    position: relative;
+    left: 1020px;
+    top: 55px;
+    font-size: 1.25em;
+}
+
+.fname{
+    position: relative;
+    left: 863px;
+    padding: 7px;
+    top: 100px;
+    margin: 1px;
+    
+}
+
+.email{
+    position: relative;
+    left: 1021px;
+    padding: 7px;
+    top: 110px;
+    width: 360px;
+}
+
+
+.password{ 
+    position: relative;
+    left: 1021px;
+    padding: 7px;
+    top: 120px;
+    width: 360px;
+}
+
+.dob{
+    position: relative;
+    left: 1020px;
+    padding: 7px;
+    top: 127px;
+    width: 360px;
+    font-size: 1.32em;
+}
+
+.gen{
+    position: relative;
+    left: 1020px;
+    top: 100px;
+    
+    
+}
+
+.Gender{
+    font-size: 1.25em;
+}
+
+.Terms{
+    position: relative;
+    left: 1020px;
+    top: 120px;
+    font-size:75%;
+}
+
+.Button {
+    position: relative;
+    left: 1020px;
+    top: 140px;
+	box-shadow: 0px 0px 21px -4px #3dc21b;
+	background-color:#44c767;
+	border-radius:29px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:7px 53px;
+	text-decoration:none;
+	text-shadow:0px 0px 21px #2f6627;
+}
+.Button:hover {
+	background-color:#5cbf2a;
+}
+
+footer{
+    text-align: center;
+    color: gray;
+    padding: 15px;
+}
+
+
+footer span{
+    color: #2098ca;
+    font-weight: bold;
+}
